@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    background-color: black
+    ;
+}
+
+h1 {
+    text-align: center;
+    color: gold;
+
+}
+
+footer{
+    color: whitesmoke;
+}
+.mashup{
+    display: flex;
+    flex-wrap:wrap ;
+    width: 1200px;
+    
+}
+.e{
+position:relative;
+margin: 1px;
+}
+header{
+    background-image: linear-gradient(to right,black,white);
+}
